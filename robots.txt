@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://permatapunggur.zone.id/sitemap.xml
